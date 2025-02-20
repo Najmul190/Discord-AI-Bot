@@ -9,3 +9,5 @@ A conversational AI bot for Discord that interacts with users as if it were a re
 # 🔗 Support and Suggestions
 
 If you have any questions or need assistance, please join our dedicated Discord server. You can ask your questions there and leave once you have the help you need, or stay and be part of the community!
+
+[![Discord Banner 2](https://discord.com/api/guilds/1269313927150309491/widget.png?style=banner2)](https://discord.gg/yUWmzQBV4P)
